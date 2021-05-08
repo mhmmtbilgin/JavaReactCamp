@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/eCommerce/bussines/concretes/LoginManager.java=UTF-8
+encoding//src/eCommerce/bussines/concretes/UserManager.java=UTF-8
+encoding//src/eCommerce/core/JMailManagerAdapter.java=UTF-8
+encoding//src/eCommerce/dataAccess/concretes/HibernateUserDao.java=UTF-8
